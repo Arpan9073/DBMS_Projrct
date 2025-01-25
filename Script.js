@@ -59,6 +59,11 @@ function reg_veh() {
   window.location.href = "vehicle_register.html";
 }
 
+// pay toll par click karne par 
+function pay_t() {
+  window.location.href = "Pay_toll.html";
+}
+
 // user inter face me jane ke liye clicked
 function back_user() {
   window.location.href = "user_interface.html";
