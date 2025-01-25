@@ -57,3 +57,8 @@ form input{
     padding: 10px;
     border: 2px solid #444444;
 }
+
+form select{
+    margin: 10px;
+    border: 2px solid #444444;
+}
