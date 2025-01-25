@@ -38,3 +38,28 @@ function typeWriter() {
 }
 
 typeWriter();
+
+// Log in page jane ke liye clicked button
+function rLog_in(){
+  window.location.href = "login.html";
+}
+
+// Sign Up page jane ke liye button clicked
+function rSign_up() {
+  window.location.href = "signup.html";
+}
+
+// back to home page
+function back() {
+  window.location.href = "interface.html";
+}
+
+// vehicle registration ke liye clicked
+function reg_veh() {
+  window.location.href = "vehicle_register.html";
+}
+
+// user inter face me jane ke liye clicked
+function back_user() {
+  window.location.href = "user_interface.html";
+}
